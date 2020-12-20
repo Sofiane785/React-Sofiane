@@ -1,0 +1,35 @@
+div .container {
+  color: black;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px;
+  margin: 10px 300px;
+  text-align: center;
+  background-color: rgb(199, 199, 199);
+}
+
+div .cadre {
+  box-sizing: border-box;
+  font-size: 20px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.page {
+  color: #fff;
+  cursor: pointer;
+}
+
+.date:hover {
+  color: #fff;
+}
+
+.title {
+  color: black;
+}
+
+.title:hover {
+  color: #fff;
+}
